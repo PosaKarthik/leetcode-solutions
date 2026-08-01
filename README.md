@@ -62,4 +62,8 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
