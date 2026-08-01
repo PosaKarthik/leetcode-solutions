@@ -55,3 +55,11 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 ---
 
 ⭐ If you find this repository useful, consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+<!---LeetCode Topics End-->
