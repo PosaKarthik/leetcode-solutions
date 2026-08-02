@@ -62,6 +62,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [1480-running-sum-of-1d-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Database
 |  |
@@ -72,4 +73,8 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
