@@ -63,6 +63,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Database
 |  |
@@ -77,4 +78,8 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
