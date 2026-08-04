@@ -73,6 +73,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -82,4 +83,12 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
