@@ -7,14 +7,11 @@ class Solution {
 
             if(num%2==0){
                 num=num/2;
-                count++;
             }else{
-                num=num-1;
-                count++;
+                num=num-1;             
             }
+            count++;
         }
-
-        // System.out.println(count);
 
         return count;
         
