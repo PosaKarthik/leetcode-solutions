@@ -6,9 +6,9 @@ class Solution {
         while(num>0){
 
             if(num%2==0){
-                num=num/2;
+                num/=2;
             }else{
-                num=num-1;             
+                num--;             
             }
             count++;
         }
