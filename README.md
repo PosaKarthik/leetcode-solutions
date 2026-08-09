@@ -88,6 +88,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 | ------- |
 | [0412-fizz-buzz](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/PosaKarthik/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
