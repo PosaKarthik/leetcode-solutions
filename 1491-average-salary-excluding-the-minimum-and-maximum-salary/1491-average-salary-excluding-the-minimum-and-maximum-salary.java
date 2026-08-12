@@ -11,7 +11,7 @@ class Solution {
             totalSum += employeeSalary;
         }
 
-        return (double) (totalSum - minimum - maximum) / (salary.length - 2);
+        return (totalSum - minimum - maximum) / (salary.length - 2);
         
     }
 }
