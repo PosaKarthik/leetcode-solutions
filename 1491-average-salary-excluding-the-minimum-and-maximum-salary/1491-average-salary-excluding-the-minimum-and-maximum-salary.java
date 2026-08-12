@@ -10,18 +10,15 @@ class Solution {
             max=Math.max(max,salary[i]);
         }
 
-        int count = 0;
-
         for(int x : salary){
             if(x == min || x == max){
                 continue;
             }else{
             totalSum += x;
-            count++;
             }
         }
 
-        double result = totalSum/count;
+        double result = totalSum/(salary.length-2);
 
         return result;
     }
