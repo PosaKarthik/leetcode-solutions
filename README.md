@@ -64,6 +64,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 | [0485-max-consecutive-ones](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Database
@@ -99,4 +100,8 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Sorting
+|  |
+| ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
