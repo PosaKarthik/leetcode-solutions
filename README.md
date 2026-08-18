@@ -63,6 +63,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 | ------- |
 | [0001-two-sum](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -105,11 +106,13 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
