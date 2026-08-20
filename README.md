@@ -63,6 +63,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 | ------- |
 | [0001-two-sum](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -102,6 +103,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
