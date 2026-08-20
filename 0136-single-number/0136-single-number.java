@@ -1,19 +1,13 @@
 class Solution {
     public int singleNumber(int[] nums) {
 
-       HashMap<Integer,Integer> hashMap = new HashMap<>();
+        int result = 0;
 
-       for(int value : nums){
-        hashMap.put(value,hashMap.getOrDefault(value,0)+1);
-       }
-
-       for(int key : hashMap.keySet()){
-        if(hashMap.get(key) == 1){
-            return key;
+        for(int value : nums){
+            result ^= value;
         }
-       }
-       
-        return -1;
+
+        return result;
         
     }
 }
