@@ -99,6 +99,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -109,12 +110,14 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
