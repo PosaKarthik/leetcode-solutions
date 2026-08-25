@@ -13,9 +13,11 @@ class Solution {
 	
 	
 	for(int i=0;i<t.length();i++){
-	    if(hashMap.containsKey(t.charAt(i))){
-	        hashMap.put(t.charAt(i),hashMap.get(t.charAt(i))-1);
-	    }
+	    if(!hashMap.containsKey(t.charAt(i))){
+	        return false;
+	    }else{
+            hashMap.put(t.charAt(i),hashMap.get(t.charAt(i))-1);
+        }
 	}
 
     for(char x : hashMap.keySet()){
