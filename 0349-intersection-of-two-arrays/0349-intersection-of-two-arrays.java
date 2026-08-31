@@ -15,7 +15,12 @@ class Solution {
                 }
             }
 
-             int[] interSection = result.stream().mapToInt(Integer::intValue).toArray();
+             int[] interSection = new int[result.size()];
+             int i = 0;
+
+             for(int x : result){
+                interSection[i++] = x;
+             }
 
              return interSection;
 
