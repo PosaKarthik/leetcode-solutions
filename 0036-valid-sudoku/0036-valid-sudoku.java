@@ -17,7 +17,7 @@ class Solution {
                 }
 
             }
-            rows.add(hashSet);
+            // rows.add(hashSet);
         }
 
         for(int i=0;i<board.length;i++){
@@ -32,7 +32,7 @@ class Solution {
                 }
 
             }
-            columns.add(hashSet);
+            // columns.add(hashSet);
         }
 
 
@@ -49,7 +49,7 @@ class Solution {
                             return false;
                         }
                         }
-                        three.add(hashSet);
+                        // three.add(hashSet);
                     }
                 }
             }
