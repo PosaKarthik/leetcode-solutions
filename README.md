@@ -62,6 +62,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [1672-richest-customer-wealth](https://github.com/PosaKarthik/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -123,6 +125,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
