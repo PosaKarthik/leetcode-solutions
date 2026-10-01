@@ -25,7 +25,7 @@ class Solution {
 
         }
 
-        System.out.println(Arrays.toString(c));
+
 
         return String.valueOf(c);
     }
