@@ -9,8 +9,8 @@ class Solution {
         
 
         for(int i=0;i<s.length();i++){
-            int temp = s.charAt(i)-'a';
-            if(frequency[temp] == 1){
+            int index = s.charAt(i)-'a';
+            if(frequency[index] == 1){
                 return i;
             }
         }
