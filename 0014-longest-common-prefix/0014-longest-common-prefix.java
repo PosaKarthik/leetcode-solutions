@@ -26,12 +26,6 @@ for(int i=0;i<strs[0].length();i++){
     }
 }
 
-if(sb.length()>0){
     return sb.toString();
-}
-        
-        System.out.println(sb);
-
-        return "";
     }
 }
