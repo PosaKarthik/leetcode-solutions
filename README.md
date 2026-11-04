@@ -65,6 +65,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 | [0014-longest-common-prefix](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0088-merge-sorted-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -122,6 +123,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -146,6 +148,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0344-reverse-string) |
