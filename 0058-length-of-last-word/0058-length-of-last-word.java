@@ -19,12 +19,11 @@ class Solution {
         for(int i=s.length()-1;i>=0;i--){
             if(s.charAt(i) != ' '){
                 answer++;
-            }else{
-                if(answer > 0){
+            }else if(answer > 0){
                     break;
                 }
             }
-        }
+        
 
         return answer;
     }
