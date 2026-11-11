@@ -6,17 +6,18 @@ class Solution {
         int length = needle.length();
 
         while (start <= haystack.length() - length) {
-            if (haystack.charAt(start + k) == needle.charAt(k)) {
-                k++;
-
-            } else {
-                k = 0;
-                start++;
-            }
-            if (k == length) {
-                return start;
-            }
-
+           k = 0;
+           while(k<length){
+                if(haystack.charAt(start+k) == needle.charAt(k)){
+                    k++;
+                }else{
+                    break;
+                }
+           }
+           if (k == length){
+            return start;
+           }
+           start++;
         }
 
         return -1;
