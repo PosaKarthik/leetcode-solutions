@@ -108,6 +108,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0058-length-of-last-word) |
@@ -138,6 +139,7 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -199,4 +201,8 @@ Feel free to explore the solutions, provide suggestions, or discuss alternative 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PosaKarthik/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
